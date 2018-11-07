@@ -7,8 +7,6 @@ import math
 from io import open
 import pandas as pan
 from pandas.plotting import scatter_matrix
-from mpl_toolkits.mplot3d import Axes3D
-import seaborn as sns
 
 
 
